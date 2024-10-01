@@ -1,6 +1,6 @@
 let listaDeNumerosSorteados = []
 let tentativas = 1
-const numeroMaximo = 50;
+const numeroMaximo = 100;
 let numeroSecreto = gerarNumeroAleatorio ();
 
 function exibirTextoNaTela (tag, texto) {
